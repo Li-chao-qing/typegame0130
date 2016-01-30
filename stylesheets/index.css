@@ -4,7 +4,7 @@ body{
 	font-family: "微软雅黑";
 	margin:0;
 	min-width: 1000px;
-	background: url(../images/a6.jpg);
+	background: url(../images/a6.jpg) no-repeat ;
 	background-size: cover;
 	/*opacity: 0.5;*/
 }
